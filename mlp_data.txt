@@ -1,0 +1,188 @@
+Outputs over Inputs
+
+
+ Activation function: tanh
+
+
+Solver: lbfgs
+training:0.9256305784683179
+testing:0.9108820902102858
+
+Solver: sgd
+training:0.38386440576633235
+testing:0.3691559606752049
+
+Solver: adam
+training:0.707164084645722
+testing:0.6867121659524618
+
+ Activation function: logistic
+
+
+Solver: lbfgs
+training:0.9451766858476142
+testing:0.9344751548747323
+
+Solver: sgd
+training:0.37197929120536083
+testing:0.3613340640544403
+
+Solver: adam
+training:0.6387177031981308
+testing:0.6223300248726038
+
+ Activation function: identity
+
+
+Solver: lbfgs
+training:0.7110919367888109
+testing:0.69645035979259
+
+Solver: sgd
+training:0.3222224487536959
+testing:0.3110203377932465
+
+Solver: adam
+training:0.6247194845401997
+testing:0.6021681032760651
+
+ Activation function: relu
+
+
+Solver: lbfgs
+training:0.9019855743574684
+testing:0.8915160449358283
+
+Solver: sgd
+training:0.3151417898697048
+testing:0.3016459953433249
+
+Solver: adam
+training:0.6962092179916041
+testing:0.6755944308825502
+Inputs over Outputs
+
+
+ Activation function: tanh
+
+
+Solver: lbfgs
+training:0.558368139126955
+testing:0.5616228359726576
+
+Solver: sgd
+training:0.4125710536893827
+testing:0.4174625791355696
+
+Solver: adam
+training:0.4218661781745967
+testing:0.4313925910616544
+
+ Activation function: logistic
+
+
+Solver: lbfgs
+training:0.5890378772998097
+testing:0.5815839101991236
+
+Solver: sgd
+training:0.3380963205322944
+testing:0.3541994014532556
+
+Solver: adam
+training:0.3880884617628537
+testing:0.398353934316252
+
+ Activation function: relu
+
+
+Solver: lbfgs
+training:0.5284472659636924
+testing:0.5314171867025971
+
+Solver: sgd
+training:-11.912450802019043
+testing:-11.232369953409265
+
+Solver: adam
+training:0.2090468404130832
+testing:0.21845678417733555Outputs over Inputs
+
+
+ Activation function: tanh
+
+
+Solver: lbfgs
+training:0.9385616809722415
+testing:0.9290675897633713
+
+Solver: sgd
+training:0.38215629482276764
+testing:0.3653603258360183
+
+Solver: adam
+training:0.7080994410501769
+testing:0.6878860462245179
+
+ Activation function: logistic
+
+
+Solver: lbfgs
+training:0.9318953840941727
+testing:0.91859726323754
+
+Solver: sgd
+training:0.36978550307055225
+testing:0.3591054377433569
+
+Solver: adam
+training:0.6784479834459513
+testing:0.6628402299958831
+
+ Activation function: identity
+
+
+Solver: lbfgs
+training:0.7111036887758592
+testing:0.6964284993613885
+
+Solver: sgd
+training:0.3179045093025058
+testing:0.30670641090926853
+
+Solver: adam
+training:0.6541848281758954
+testing:0.634152589114208
+
+ Activation function: relu
+
+
+Solver: lbfgs
+training:0.8964984412719499
+testing:0.8761511880279009
+
+Solver: sgd
+training:0.3309646931438914
+testing:0.3167808664825984
+
+Solver: adam
+training:-0.38027319246410624
+testing:-0.3593545901752834Outputs over Inputs
+
+
+ Activation function: tanh
+
+
+Solver: lbfgs
+training:0.9428396975629539
+testing:0.9311363407695937
+
+Solver: sgd
+training:0.3794259654773556
+testing:0.3652295896476977
+
+Solver: adam
+training:0.6069849002189771
+testing:0.5829643223144573
+
+ Activation function: logistic

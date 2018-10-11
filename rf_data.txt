@@ -1,0 +1,109 @@
+outputs over inputs
+
+
+n_estimators: 200
+
+training:0.9937483390137297
+testing:0.9504237739106485
+
+n_estimators: 400
+
+training:0.9938895049599592
+testing:0.9507950750087162
+
+n_estimators: 600
+
+training:0.9938917478402787
+testing:0.9507871293516322
+
+n_estimators: 800
+
+training:0.9939084199552556
+testing:0.9503971535474168
+
+n_estimators: 1000
+
+training:0.9939867450620978
+testing:0.950815211270024
+
+n_estimators: 1200
+
+training:0.99390839262563
+testing:0.9504927643866916
+
+n_estimators: 1400
+
+training:0.9940241981795822
+testing:0.950745643940658
+
+n_estimators: 1600
+
+training:0.9939705534093408
+testing:0.9507394612754057
+
+n_estimators: 1800
+
+training:0.9939717595260519
+testing:0.9505345991207026
+
+n_estimators: 2000
+
+training:0.9939600145318621
+testing:0.9504827257750564Inputs over outputs
+
+
+n_estimators: 200
+
+training:0.9200859161996726
+testing:0.4249724244281808
+
+n_estimators: 400
+
+training:0.9201191572011453
+testing:0.43081011388317353
+
+n_estimators: 600
+
+training:0.9214400179113318
+testing:0.4311330991172054
+
+n_estimators: 800
+
+training:0.9217150033078201
+testing:0.4303920922164668
+
+n_estimators: 1000
+
+training:0.9216257835362791
+testing:0.42979852716806716
+
+n_estimators: 1200
+
+training:0.9212321757346804
+testing:0.4308730974177026
+
+n_estimators: 1400
+
+training:0.9214897248368921
+testing:0.4299043832032737
+
+n_estimators: 1600
+
+training:0.9214444798162458
+testing:0.43084200603457135
+
+n_estimators: 1800
+
+training:0.921686289840946
+testing:0.4297686871900113
+
+n_estimators: 2000
+
+training:0.921565513629037
+testing:0.4307428451044408outputs over inputs
+
+
+n_estimators: 200
+
+training:0.9936898310751795
+testing:0.949646214719312

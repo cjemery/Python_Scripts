@@ -1,0 +1,9 @@
+sed 
+	's/subsitute/with/g' 
+	'/^$/d' --delete empty lines
+	sed 'n; d' infile > outfile  --keep odd lines 
+	sed '1d; n; d' infile > outfile --keep even lines
+
+
+cut -d'delimiter' -f(field)
+
